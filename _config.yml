@@ -12,9 +12,9 @@ title                    : "Networked Control Systems Lab"
 title_separator          : "-"
 name                     : &name "Takashi Tanaka"
 description              : &description ""
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://networked-control-systems-lab.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Networked-Control-Systems-Lab/Networked-Control-Systems-Lab.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
