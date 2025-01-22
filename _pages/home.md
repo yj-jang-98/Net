@@ -9,13 +9,15 @@ redirect_from:
 
 Takashi Tanaka
 ---
-<img src="/images/tanaka-199x300.jpg#left" width="20%">
+<img src="/images/tanaka-199x300.jpg#left" width="25%">
 
-Assistant Professor
+Associate Professor
 
-Email: ttanaka@utexas.edu
+Office: ARMS 2037
 
-Office: ASE 4.230
+Office Phone: +1 765-494-5143
+
+E-mail: tanaka16@purdue.edu
 
 [Research](/research/)
 
