@@ -25,11 +25,12 @@ author:
   name             : "Takashi Tanaka"
   pronouns         : # example: "she/her"  
   bio              : # bio
-  location         : "Austin, TX"
-  employer         : "The University of Texas at Austin"
+  location         : "West Lafayette, IN"
+  employer         : "Purdue University"
   uri              : # URL
-  email            : "ttanaka@utexas.edu"
-  office           : "ASE 4.230"
+  email            : "tanaka16@purdue.edu"
+  phone            : "+1 765-494-5143"
+  office           : "ARMS 2037"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
