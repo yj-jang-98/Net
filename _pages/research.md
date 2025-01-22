@@ -1,6 +1,7 @@
 ---
 permalink: /research/
 title: "Research"
+description: ""
 author_profile: false
 redirect_from: 
   - /research.html

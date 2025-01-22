@@ -1,6 +1,7 @@
 ---
 permalink: /courses/
 title: "Courses"
+description: ""
 author_profile: false
 redirect_from: 
   - /courses.html

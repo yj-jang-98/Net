@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+description: ""
 author_profile: false
 redirect_from: 
   - /about.html

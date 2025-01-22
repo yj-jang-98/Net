@@ -9,7 +9,8 @@ redirect_from:
 
 Takashi Tanaka
 ---
-<img src="/images/tanaka-199x300.jpg#left" width="25%">
+
+<img src="/images/tanaka-199x300.jpg#left" width="25%" alt="profile image">
 
 Associate Professor
 
