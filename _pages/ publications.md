@@ -7,6 +7,16 @@ redirect_from:
   - /publications.html
 ---
 
+Click the button below to generate citations dynamically:
+
+<button onclick="testButtonFn()">Click!</button>
+
+<script>
+function testButtonFn() {
+    alert("Button Clicked.");
+}
+</script>
+
 Forthcoming
 ---
 1. V. Zinage, A. Pedram and T. Tanaka, [Optimal Sampling-based Motion Planning in Gaussian Belief Space for Minimum Sensing Navigation.](https://arxiv.org/abs/2306.00264)
